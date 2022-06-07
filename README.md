@@ -14,16 +14,19 @@ For monster grid configuration there is an array of strings:
             "bbbbb",
             ".bbb."
         ]
-    * 'g' - Green monster
-    * 'r' - Red monster 
-    * '.' - Empty slot    
-Speed of monster is defined in a range [0,1], where 1 is a max available speed.
+* 'g' - Green monster
+* 'r' - Red monster 
+* '.' - Empty slot    
+  
+Speed of monster is defined in a range [0,1], where 1 is a max possible speed.
+![](Images/Screenshot_0.png)
     
     
-## If you want to contribute
+## If you would like to contribute
 There are several things to do:  
 
 * Faster appearing. Every new raw starts not waiting for previous one.
 * True Laser-beam monster logic
+* Anything you like to be added
 
 Happy to see your pull request! :)
