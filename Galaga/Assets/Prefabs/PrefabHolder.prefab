@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1797142036621352}
+  m_IsPrefabParent: 1
+--- !u!1 &1797142036621352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4828499082521232}
+  - component: {fileID: 114361618816905170}
+  m_Layer: 0
+  m_Name: PrefabHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4828499082521232
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797142036621352}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114361618816905170
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797142036621352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08da2f4b0a6142044a42649f630b0d90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Entities:
+    Objects:
+    - {fileID: 1535904750643532, guid: 2b3610397b9ccd245b26378f9036b0f2, type: 2}
+    - {fileID: 1845514435984264, guid: 81fa557025a9bbb4bae4f4ff5c0f44a2, type: 2}
+    - {fileID: 1243248234691134, guid: c7551512404bbf34ea0c2c6432a3ea8f, type: 2}
+    - {fileID: 1927226803798554, guid: 1a14cb5c163200d4b926a03c7b02a1df, type: 2}
+    - {fileID: 1371621942782862, guid: 9bf31baf8682a18488a295e27b591806, type: 2}
+    - {fileID: 1394816348223698, guid: 1b268bc7b82460d4ebcc5f7782abf754, type: 2}
+    - {fileID: 1767924163056768, guid: 07b7062c35c214842a47d0116b9aa7cd, type: 2}
+    - {fileID: 1965777150740290, guid: bdf8c36cbd8f31e4884b0f6ff7c50bd9, type: 2}
+    - {fileID: 1173679741372116, guid: 93147baad48a3a947b98693c8dac9728, type: 2}
+    - {fileID: 1495842721196016, guid: 2dfe320fa9c401e4781e36ed041d1bd2, type: 2}
+  Topology:
+    Objects:
+    - {fileID: 1990838853460548, guid: 979c2ef5bb73e5c409027b8eb415a2ab, type: 2}
+    - {fileID: 1249381882569974, guid: 2380d3fe75d2ce54fb999ea84764915d, type: 2}

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Art
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 1024
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 08b57c60b2d73c60b62e8f8d44d768f2
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 08b57c60b2d73c60b62e8f8d44d768f2
+    totalSpriteSurfaceArea: 4539
+    packables:
+    - {fileID: 2800000, guid: 9502b653f1e0b7143bfbf98992e4691e, type: 3}
+    - {fileID: 2800000, guid: 1414e73c4fc4803468c0dda81b4c1db8, type: 3}
+    - {fileID: 2800000, guid: fea66f6b0a73fd5468b474c8b4a47a66, type: 3}
+    - {fileID: 2800000, guid: 49b2b4dd8dfc2b9489c0483f00ecf66d, type: 3}
+    - {fileID: 2800000, guid: 128869215b60d1e4698258892199ce76, type: 3}
+    - {fileID: 2800000, guid: 17b6b67da6dccd042a85f711b5a7e291, type: 3}
+    - {fileID: 2800000, guid: 0266b264cb9cb4d4f9e39d4672fb5808, type: 3}
+    - {fileID: 2800000, guid: 7cae69004201f4044a93b64d303f5742, type: 3}
+    packedSpriteRenderDataKeys:
+    - 1414e73c4fc4803468c0dda81b4c1db8: 21300000
+    - fea66f6b0a73fd5468b474c8b4a47a66: 21300000
+    - 7cae69004201f4044a93b64d303f5742: 21300000
+    - 49b2b4dd8dfc2b9489c0483f00ecf66d: 21300000
+    - 9502b653f1e0b7143bfbf98992e4691e: 21300000
+    - 128869215b60d1e4698258892199ce76: 21300000
+    - 0266b264cb9cb4d4f9e39d4672fb5808: 21300000
+    - 17b6b67da6dccd042a85f711b5a7e291: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1414e73c4fc4803468c0dda81b4c1db8, type: 3}
+  - {fileID: 21300000, guid: fea66f6b0a73fd5468b474c8b4a47a66, type: 3}
+  - {fileID: 21300000, guid: 7cae69004201f4044a93b64d303f5742, type: 3}
+  - {fileID: 21300000, guid: 49b2b4dd8dfc2b9489c0483f00ecf66d, type: 3}
+  - {fileID: 21300000, guid: 9502b653f1e0b7143bfbf98992e4691e, type: 3}
+  - {fileID: 21300000, guid: 128869215b60d1e4698258892199ce76, type: 3}
+  - {fileID: 21300000, guid: 0266b264cb9cb4d4f9e39d4672fb5808, type: 3}
+  - {fileID: 21300000, guid: 17b6b67da6dccd042a85f711b5a7e291, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EnergyBeam
+  - Explosion
+  - Ship
+  - Green
+  - Blue
+  - Red
+  - RocketRed
+  - RocketBlue
+  m_Tag: Art
+  m_IsVariant: 0
